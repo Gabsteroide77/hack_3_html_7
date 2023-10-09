@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #FFF8EE ;
+}
+
+@font-face {
+    font-family: Cerebri ;
+    src: url(fonts/Cerebri_Sans_Regular.ttf);
+}
+
+.semicircleyellow{
+position: absolute;
+top: 4%;
+left: 40%;
+transform: translate(-50%, -50%);
+height: 65px;
+width: 140px;
+border-radius: 0 0 150px 150px;
+background-color: #FFD900;
+}
+
+.semicirclecoral{
+position: absolute;
+top: 40%;
+right: -3%;
+transform: translate(-50%, -50%);
+height: 150px;
+width: 75px;
+border-radius: 150px 0 0 150px;
+background-color: #FF5757;
+}
+
+.olivia{
+font-family: Cerebri;
+position: absolute;
+top: 25%;
+left: 17%;
+font-weight: 900;
+font-size: 500%;
+}
+
+.wilson{
+    font-family: Cerebri;
+    position: absolute;
+    top: 37.7%;
+    left: 17%;
+    font-size: 500%;
+    font-weight: 900;
+}
+
+.img1{
+    position: absolute;
+    top: 12%;
+    right: 26%;
+}
+
+.influencer{
+    position: absolute;
+    top: 54%;
+    left: 17%;
+    font-family: Cerebri;
+    font-size: 110%;
+}
+
+.cuadrorosa{
+    position: relative;
+    height: 90px;
+    width: 900px;
+    top: 450px;
+    left: 200px;
+    border-radius: 30px;
+    background-color: #FFC1D3;
+}
+
+.numbers{
+    position: absolute ;
+    font-family: Cerebri;
+    background-color: #FFC1D3;
+    font-size: 30px;
+    font-weight: 600;
+    top: 10%;
+    left: 10%;
+    word-spacing: 160px;
+}
+
+.firstlinewords{
+    position: absolute;
+    font-family: Cerebri;
+    font-size: 15px;
+    background-color: #FFC1D3;
+    top: 50%;
+    left: 10%;
+    word-spacing: 161px ;
+}
+
+.secondlinewords{
+    position: absolute;
+    font-family: Cerebri;
+    font-size: 15px;
+    background-color: #FFC1D3;
+    top: 71%;
+    left: 36%;
+    word-spacing: 161px ;
+}
+
+.aboutme{
+    position: absolute;
+    top: 90%;
+    left: 20%;
+    font-family: Cerebri;
+    font-weight: 900;
+    font-size: 25px; 
+}
+
+.services{
+    position: absolute;
+    top: 90%;
+    left: 52%;
+    font-family: Cerebri;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.lorem{
+    position: absolute;
+    list-style: none;
+    top: 100%;
+    left: 20%;
+    font-family: Cerebri;
+    font-size: 100%;
+}
+
+.servicedetails{
+    position: absolute;
+    list-style: none;
+    top: 100%;
+    left: 52%;
+    font-family: Cerebri;
+    font-size: 100%;
+}
+
+.prices{
+    position: absolute;
+    list-style: none;
+    top: 100%;
+    left: 75%;
+    font-family: Cerebri;
+    font-size: 100%;
+}
+
+.img2{
+    position: absolute;
+    top: 115%;
+    left: 19%;
+}
+
+.img3{
+    position: absolute;
+    top: 115%;
+    left: 51%;
+}
+
+.collabs{
+    position: absolute;
+    top: 158%;
+    left: 20%;
+    font-family: cerebri;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.firstlist{
+    position: absolute;
+    top: 165%;
+    left: 20%;
+    font-family: cerebri;
+    font-size: 100%;
+}
+
+.secondlist{
+    position: absolute;
+    top: 165%;
+    left: 34%;
+    font-family: cerebri;
+    font-size: 100%;
+}
+
+.cuadroazul{
+    position: relative;
+    top: 910px;
+    left: 52%;
+    height: 90px ;
+    width: 320px;
+    border-radius: 30px;
+    background-color: #85E0E4;
+}
+
+.contenidocuadroazul{
+    position: absolute;
+    list-style: none;
+    top: 160%;
+    right: 44%;
+    font-family: cerebri;
+    font-size: 100%;
+    background-color: #85E0E4;
+    width: 0;
+    white-space: nowrap;
+}
+
+.semicirclepink{
+    position: absolute;
+    bottom: -98%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    height: 70px;
+    width: 140px;
+    border-radius: 280px 280px 0 0;
+    background-color: #FFC1D3;
+}  
+
+.logo1{
+    position: absolute;
+    top: 160.2%;
+    right: 45%;
+    mix-blend-mode:darken ;
+}
+
+.logo2{
+    position: absolute;
+    top: 163.4%;
+    right: 45%;
+    mix-blend-mode: darken;
+}
+
+.logo3{
+    position: absolute;
+    top: 166.6%;
+    right: 45%;
+    mix-blend-mode: darken;
+}
